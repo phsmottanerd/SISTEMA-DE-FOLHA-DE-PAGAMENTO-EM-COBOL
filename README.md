@@ -1,15 +1,18 @@
-███████╗ ██████╗ ██╗     ██╗  ██╗ █████╗ ██████╗ 
-██╔════╝██╔═══██╗██║     ██║  ██║██╔══██╗██╔══██╗
-█████╗  ██║   ██║██║     ███████║███████║██████╔╝
-██╔══╝  ██║   ██║██║     ██╔══██║██╔══██║██╔═══╝ 
-██║     ╚██████╔╝███████╗██║  ██║██║  ██║██║     
-╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
-
-        FOLHAPAG-COBOL
-   SISTEMA DE FOLHA DE PAGAMENTO
-
-        💼 MAINFRAME SYSTEM
-
+# ███████╗ ██████╗ ██╗     ██╗  ██╗ █████╗ ██████╗  █████╗  ██████╗ 
+# ██╔════╝██╔═══██╗██║     ██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝ 
+# █████╗  ██║   ██║██║     ███████║███████║██████╔╝███████║██║  ███╗
+# ██╔══╝  ██║   ██║██║     ██╔══██║██╔══██║██╔═══╝ ██╔══██║██║   ██║
+# ██║     ╚██████╔╝███████╗██║  ██║██║  ██║██║     ██║  ██║╚██████╔╝
+# ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
+#
+#        SISTEMA DE FOLHA DE PAGAMENTO EM COBOL
+#
+#              💼 MAINFRAME BUSINESS SYSTEM 💼
+#
+#              Desenvolvido por:
+#              PAULO HENRIQUE SANTANA MOTTA
+#
+####################################################################
 
 
 # 💼 Sistema de Folha de Pagamento COBOL
@@ -37,94 +40,6 @@ O programa permite:
 ✔ Cálculo de desconto INSS  
 ✔ Cálculo de salário líquido  
 ✔ Consulta das informações cadastradas  
-
-DENTIFICATION DIVISION
-|
-|
-ENVIRONMENT DIVISION
-|
-|
-DATA DIVISION
-|
-|
-WORKING-STORAGE SECTION
-|
-|
-PROCEDURE DIVISION
-
-
-Essa organização é utilizada há décadas em sistemas
-corporativos de alta criticidade.
-
-
----
-
-# 🖥️ Tecnologias Utilizadas
-
-<div align="center">
-
-💻 COBOL  
-🏦 Mainframe Concepts  
-⚙️ GnuCOBOL  
-📂 Processamento Estruturado  
-🖥️ Terminal Application  
-
-</div>
-
-
----
-
-# 📌 Funcionalidades
-
-## 👤 Cadastro de Funcionário
-
-Informações cadastradas:
-
-
-Nome
-Sobrenome
-CPF
-Data de nascimento
-Salário bruto
-
-
-
-## 💰 Processamento Salarial
-
-Cálculos realizados:
-
-
-Salário Bruto
-|
-|
-Desconto INSS (10%)
-|
-|
-Salário Líquido
-
-
-
-Exemplo:
-
-
-Salário Bruto: R$ 5.000,00
-
-INSS: R$ 500,00
-
-Salário Líquido: R$ 4.500,00
-
-
-
----
-
-# 📂 Estrutura do Projeto
-
-
-📦 SISTEMA-FOLHA-PAGAMENTO-COBOL
-
-┣ 📄 FOLHAPAG.cob
-
-┣ 📄 README.md
 
 
 ---
