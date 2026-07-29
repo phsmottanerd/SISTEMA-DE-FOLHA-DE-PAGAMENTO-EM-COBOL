@@ -1,19 +1,4 @@
-  ███████╗ ██████╗ ██╗     ██╗  ██╗ █████╗ ██████╗ 
-  ██╔════╝██╔═══██╗██║     ██║  ██║██╔══██╗██╔══██╗
-  █████╗  ██║   ██║██║     ███████║███████║██████╔╝
-  ██╔══╝  ██║   ██║██║     ██╔══██║██╔══██║██╔═══╝ 
-  ██║     ╚██████╔╝███████╗██║  ██║██║  ██║██║     
-  ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
-
-        💼 FOLHAPAG-COBOL SYSTEM 💼
-
-     SISTEMA DE FOLHA DE PAGAMENTO COBOL
-
-          🏦 MAINFRAME BUSINESS SYSTEM
-
-     Desenvolvido por:
-     PAULO HENRIQUE SANTANA MOTTA
-
+  
 ====================================================
 
 # 💼 Sistema de Folha de Pagamento COBOL
